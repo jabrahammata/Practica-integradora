@@ -1,7 +1,7 @@
 # Practica-integradora
 
-working directory :pencil2:
+**working directory** :pencil2:
 
-staging area :envelope:
+*staging area* :envelope:
 
-repository :mailbox:
+- repository :mailbox:
